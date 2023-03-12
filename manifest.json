@@ -14,21 +14,6 @@
     "lifestyle",
     "social"
   ],
-  "share_target":[],
-  "shortcuts": [
-    {
-      "name": "Start Live Session",
-      "short_name": "Start Live",
-      "description": "Jump direction into starting or joining a live session",
-      "url": "/?startLive",
-      "icons": [
-        {
-          "src": "https://pwabuilder.com/assets/icons/icon_192.png",
-          "sizes": "192x192"
-        }
-      ]
-    }
-  ], 
   "screenshots": [
 {
   "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",

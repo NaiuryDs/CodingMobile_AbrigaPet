@@ -31,25 +31,25 @@
 }
 ], 
   "icons": [
-    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset//180.png",
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/180.png",
     "sizes": "180x180",
     "type": "image/png",
     "purpose": "any"},
     {
-      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset//1024.png",
+      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/1024.png",
         "sizes": "1024x1024",
         "type": "image/png"
     },
     {
-      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset//140.png",
+      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/140.png",
         "sizes": "140x140",
         "type": "image/png",
         "purpose": "maskable"
     },
-    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset//120.png",
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/120.png",
     "sizes": "120x120",
     "type": "image/png"},
-{"src": "AppIcons/Assets.xcassets/AppIcon.appiconset//60.png",
+{"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/60.png",
     "sizes": "60x60",
     "type": "image/png"},
 

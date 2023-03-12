@@ -56,15 +56,18 @@
     "type": "image/png"}
   ],
     "shortcuts": [
-  {
-    "name": "About",
-    "url": "/about"
-  },
-  {
-    "name": "Send Message",
-    "url": "/new-message",
-    "description": "Open a chat with another user and send a message to them."
-  }
+      {
+        "name": "Start Live Session",
+        "short_name": "Start Live",
+        "description": "Jump direction into starting or joining a live session",
+        "url": "/?startLive",
+        "icons": [
+          {
+            "src": "https://pwabuilder.com/assets/icons/icon_192.png",
+            "sizes": "192x192"
+          }
+        ]
+      }
 ],
   "lang": "pt",
   "display_override": [

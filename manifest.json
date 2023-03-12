@@ -5,6 +5,7 @@
   "display": "standalone",
   "name": "App AbrigaPet",
   "orientation": "portrait",
+  "scope": "https://docs.pwabuilder.com",
   "short_name": "AbrigaPet",
   "start_url": "index.html",
   "theme_color": "#c075c8",

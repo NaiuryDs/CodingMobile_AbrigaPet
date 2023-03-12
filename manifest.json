@@ -53,7 +53,12 @@
 
     {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/40.png",
     "sizes": "40x40",
-    "type": "image/png"}
+    "type": "image/png"},
+    {
+      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/87.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
   ],
     "shortcuts": [
       {

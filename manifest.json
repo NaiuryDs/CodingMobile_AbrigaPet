@@ -13,6 +13,21 @@
     "lifestyle",
     "social"
   ],
+  "share_target":[],
+  "shortcuts": [
+    {
+      "name": "Start Live Session",
+      "short_name": "Start Live",
+      "description": "Jump direction into starting or joining a live session",
+      "url": "/?startLive",
+      "icons": [
+        {
+          "src": "https://pwabuilder.com/assets/icons/icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ], 
   "screenshots": [
 {
   "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
@@ -53,31 +68,21 @@
 
     {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/40.png",
     "sizes": "40x40",
-    "type": "image/png"},
-    {
-      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/87.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    }
+    "type": "image/png"}
   ],
     "shortcuts": [
-      {
-        "name": "Start Live Session",
-        "short_name": "Start Live",
-        "description": "Jump direction into starting or joining a live session",
-        "url": "/?startLive",
-        "icons": [
-          {
-            "src": "https://pwabuilder.com/assets/icons/icon_192.png",
-            "sizes": "192x192"
-          }
-        ]
-      }
+  {
+    "name": "About",
+    "url": "/about"
+  },
+  {
+    "name": "Send Message",
+    "url": "/new-message",
+    "description": "Open a chat with another user and send a message to them."
+  }
 ],
   "lang": "pt",
   "display_override": [
-    "window-controls-overlay",
-    "standalone",
-    "browser"
+    "window-controls-overlay"
   ]
 }

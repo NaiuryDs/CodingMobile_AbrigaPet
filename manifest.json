@@ -1,0 +1,51 @@
+{
+  "background_color": "#a67cb8",
+  "description": "Abriga Pet é um app para apresentação da história da ong!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "App AbrigaPet",
+  "orientation": "portrait",
+  "scope": "index.html",
+  "short_name": "AbrigaPet",
+  "start_url": "index.html",
+  "theme_color": "#c075c8",
+  "categories": [
+    "education",
+    "lifestyle",
+    "social"
+  ],
+  "screenshots": [],
+  "icons": [
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/180.png",
+    "sizes": "180x180",
+    "type": "image/png"},
+    {
+      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+    },
+    {
+      "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/140.png",
+        "sizes": "140x140",
+        "type": "image/png"
+    },
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/120.png",
+    "sizes": "120x120",
+    "type": "image/png"},
+
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/60.png",
+    "sizes": "60x60",
+    "type": "image/png"},
+
+    {"src": "AppIcons/Assets.xcassets/AppIcon.appiconset/_/40.png",
+    "sizes": "40x40",
+    "type": "image/png"}
+  ],
+  "shortcuts": [],
+  "lang": "pt",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ]
+}

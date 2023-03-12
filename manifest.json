@@ -1,11 +1,9 @@
 {
   "background_color": "#a67cb8",
   "description": "Abriga Pet é um app para apresentação da história da ong!",
-  "dir": "ltr",
   "display": "standalone",
   "name": "App AbrigaPet",
-  "orientation": "portrait",
-  "scope": "https://docs.pwabuilder.com",
+  "orientation": "any",
   "short_name": "AbrigaPet",
   "start_url": "index.html",
   "theme_color": "#c075c8",

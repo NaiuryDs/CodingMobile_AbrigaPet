@@ -5,7 +5,6 @@
   "display": "standalone",
   "name": "App AbrigaPet",
   "orientation": "portrait",
-  "scope": "index.html",
   "short_name": "AbrigaPet",
   "start_url": "index.html",
   "theme_color": "#c075c8",
